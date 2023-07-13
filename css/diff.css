@@ -1,0 +1,126 @@
+.whito {
+
+color: orange !important;
+
+
+
+}
+
+.mosl {
+
+background-color: white !important;
+
+
+}
+
+.testcolor {
+
+
+    background-color: green !important;
+
+}
+
+body  {
+
+    background-color: black ;
+
+}
+
+.wezo {
+
+border: 0.1px solid rgb(126, 21, 21) !important;
+
+}
+
+.bluse {
+
+    background-color: rgb(11, 12, 85) !important ;
+
+
+}
+
+.darkelo {
+
+    background-color: black !important;
+
+
+}
+
+.shadowen {
+
+    box-shadow: 0 0 10px rgb(202, 71, 19)  !important;
+
+
+}
+
+
+
+.whitsolo {
+
+    color: white !important;
+
+
+}
+
+.bgd {
+
+    background-color: rgb(19, 20, 24) !important;
+color: white !important;
+box-shadow: 0 0 10px rgb(255, 0, 0);
+}
+
+.WRITER {
+
+text-align: end;
+
+    
+
+}
+
+
+.founted {
+
+font-weight: bold;
+
+
+}
+
+.heihgf {
+
+height: 300px !important;
+
+
+}
+
+.zxzx {
+
+
+    z-index: 1 !important;
+}
+
+.lefto {
+
+text-align: end !important;
+
+
+}
+
+.nav-bg {
+
+background-color: rgb(139, 97, 97) !important;
+
+}
+
+.slideInDown {
+
+    background-color: rgb(139, 97, 97) !important;
+
+
+}
+
+.maro {
+display: flex ;
+justify-content: center !important;
+flex-direction: row;
+
+}
